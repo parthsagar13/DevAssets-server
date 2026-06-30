@@ -432,3 +432,650 @@ TypeError: ApiResponse.error is not a function
 2026-06-30 16:47:33 [INFO]: API Documentation available at /api-docs
 2026-06-30 16:47:33 [INFO]: Health check available at /health
 2026-06-30 16:47:33 [INFO]: Database initialized successfully
+2026-06-30 16:51:48 [WARN]: MongoDB URI not provided - running in mock mode without database
+2026-06-30 16:51:48 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:51:48 [INFO]: API available at /api/v1
+2026-06-30 16:51:48 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:51:48 [INFO]: Health check available at /health
+2026-06-30 16:51:48 [INFO]: Database initialized successfully
+2026-06-30 16:52:51 [WARN]: MongoDB URI not provided - running in mock mode without database
+2026-06-30 16:52:51 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:52:51 [INFO]: API available at /api/v1
+2026-06-30 16:52:51 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:52:51 [INFO]: Health check available at /health
+2026-06-30 16:52:51 [INFO]: Database initialized successfully
+2026-06-30 16:52:54 [WARN]: MongoDB URI not provided - running in mock mode without database
+2026-06-30 16:52:54 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:52:54 [INFO]: API available at /api/v1
+2026-06-30 16:52:54 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:52:54 [INFO]: Health check available at /health
+2026-06-30 16:52:54 [INFO]: Database initialized successfully
+2026-06-30 16:52:56 [WARN]: MongoDB URI not provided - running in mock mode without database
+2026-06-30 16:52:56 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:52:56 [INFO]: API available at /api/v1
+2026-06-30 16:52:56 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:52:56 [INFO]: Health check available at /health
+2026-06-30 16:52:56 [INFO]: Database initialized successfully
+2026-06-30 16:52:59 [WARN]: MongoDB URI not provided - running in mock mode without database
+2026-06-30 16:52:59 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:52:59 [INFO]: API available at /api/v1
+2026-06-30 16:52:59 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:52:59 [INFO]: Health check available at /health
+2026-06-30 16:52:59 [INFO]: Database initialized successfully
+2026-06-30 16:54:32 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:54:32 [INFO]: API available at /api/v1
+2026-06-30 16:54:32 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:54:32 [INFO]: Health check available at /health
+2026-06-30 16:54:32 [INFO]: MongoDB connected successfully
+2026-06-30 16:54:32 [INFO]: Database initialized successfully
+2026-06-30 16:55:09 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:55:09 [INFO]: API available at /api/v1
+2026-06-30 16:55:09 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:55:09 [INFO]: Health check available at /health
+2026-06-30 16:55:10 [INFO]: MongoDB connected successfully
+2026-06-30 16:55:10 [INFO]: Database initialized successfully
+2026-06-30 16:55:20 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:55:20 [INFO]: API available at /api/v1
+2026-06-30 16:55:20 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:55:20 [INFO]: Health check available at /health
+2026-06-30 16:55:20 [INFO]: MongoDB connected successfully
+2026-06-30 16:55:20 [INFO]: Database initialized successfully
+2026-06-30 16:55:28 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:55:28 [INFO]: API available at /api/v1
+2026-06-30 16:55:28 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:55:28 [INFO]: Health check available at /health
+2026-06-30 16:55:29 [INFO]: MongoDB connected successfully
+2026-06-30 16:55:29 [INFO]: Database initialized successfully
+2026-06-30 16:56:20 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:56:20 [INFO]: API available at /api/v1
+2026-06-30 16:56:20 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:56:20 [INFO]: Health check available at /health
+2026-06-30 16:56:21 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:56:21 [INFO]: API available at /api/v1
+2026-06-30 16:56:21 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:56:21 [INFO]: Health check available at /health
+2026-06-30 16:56:22 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:56:22 [INFO]: API available at /api/v1
+2026-06-30 16:56:22 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:56:22 [INFO]: Health check available at /health
+2026-06-30 16:56:22 [INFO]: MongoDB connected successfully
+2026-06-30 16:56:22 [INFO]: Database initialized successfully
+2026-06-30 16:57:08 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 16:57:08 [INFO]: ::1 - - [30/Jun/2026:11:27:08 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:58:57 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 16:58:57 [INFO]: ::1 - - [30/Jun/2026:11:28:57 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:58:57 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 16:58:57 [INFO]: ::1 - - [30/Jun/2026:11:28:57 +0000] "GET / HTTP/1.1" 500 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:59:09 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:59:09 [INFO]: API available at /api/v1
+2026-06-30 16:59:09 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:59:09 [INFO]: Health check available at /health
+2026-06-30 16:59:09 [INFO]: MongoDB connected successfully
+2026-06-30 16:59:09 [INFO]: Database initialized successfully
+2026-06-30 16:59:32 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:59:32 [INFO]: API available at /api/v1
+2026-06-30 16:59:32 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:59:32 [INFO]: Health check available at /health
+2026-06-30 16:59:33 [INFO]: MongoDB connected successfully
+2026-06-30 16:59:33 [INFO]: Database initialized successfully
+2026-06-30 17:00:33 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:00:33 [INFO]: API available at /api/v1
+2026-06-30 17:00:33 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:00:33 [INFO]: Health check available at /health
+2026-06-30 17:00:34 [INFO]: MongoDB connected successfully
+2026-06-30 17:00:34 [INFO]: Database initialized successfully
+2026-06-30 17:00:48 [INFO]: ::1 - - [30/Jun/2026:11:30:48 +0000] "GET /login HTTP/1.1" 404 105 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:00:48 [INFO]: ::1 - - [30/Jun/2026:11:30:48 +0000] "GET /favicon.ico HTTP/1.1" 404 111 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:00:52 [INFO]: ::1 - - [30/Jun/2026:11:30:52 +0000] "GET / HTTP/1.1" 404 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:00:56 [INFO]: ::1 - - [30/Jun/2026:11:30:56 +0000] "GET / HTTP/1.1" 404 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:02:14 [INFO]: ::1 - - [30/Jun/2026:11:32:14 +0000] "POST /auth/login HTTP/1.1" 404 110 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:02:21 [INFO]: ::1 - - [30/Jun/2026:11:32:21 +0000] "POST /auth/login HTTP/1.1" 404 110 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code-Insiders/1.126.0-insider Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36"
+2026-06-30 17:02:33 [INFO]: ::1 - - [30/Jun/2026:11:32:33 +0000] "POST /auth/login HTTP/1.1" 404 110 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:03:18 [INFO]: ::1 - - [30/Jun/2026:11:33:18 +0000] "POST /auth/login HTTP/1.1" 404 110 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:03:53 [INFO]: ::1 - - [30/Jun/2026:11:33:53 +0000] "POST /api/auth/login HTTP/1.1" 404 114 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:04:19 [INFO]: ::1 - - [30/Jun/2026:11:34:19 +0000] "GET / HTTP/1.1" 404 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:04:19 [INFO]: ::1 - - [30/Jun/2026:11:34:19 +0000] "GET /favicon.ico HTTP/1.1" 404 111 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:06:25 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:06:25 [INFO]: API available at /api
+2026-06-30 17:06:25 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:06:25 [INFO]: Health check available at /health
+2026-06-30 17:06:26 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:26 [INFO]: Database initialized successfully
+2026-06-30 17:06:41 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:06:41 [INFO]: API available at /api
+2026-06-30 17:06:41 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:06:41 [INFO]: Health check available at /health
+2026-06-30 17:06:42 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:42 [INFO]: Database initialized successfully
+2026-06-30 17:06:49 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:06:49 [INFO]: API available at /api
+2026-06-30 17:06:49 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:06:49 [INFO]: Health check available at /health
+2026-06-30 17:06:50 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:50 [INFO]: Database initialized successfully
+2026-06-30 17:06:51 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:06:51 [INFO]: API available at /api
+2026-06-30 17:06:51 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:06:51 [INFO]: Health check available at /health
+2026-06-30 17:06:52 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:52 [INFO]: Database initialized successfully
+2026-06-30 17:06:55 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:55 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:55 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:55 [INFO]: ::1 - - [30/Jun/2026:11:36:55 +0000] "POST /api/auth/login HTTP/1.1" 500 102 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:06:57 [INFO]: MongoDB connected successfully
+2026-06-30 17:06:57 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:57 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:57 [INFO]: ::1 - - [30/Jun/2026:11:36:57 +0000] "POST /api/auth/login HTTP/1.1" 500 102 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:07:43 [INFO]: MongoDB connected successfully
+2026-06-30 17:07:43 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:07:43 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:07:43 [INFO]: ::1 - - [30/Jun/2026:11:37:43 +0000] "POST /api/auth/login HTTP/1.1" 500 102 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:07:52 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:07:52 [INFO]: API available at /api
+2026-06-30 17:07:52 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:07:52 [INFO]: Health check available at /health
+2026-06-30 17:07:53 [INFO]: MongoDB connected successfully
+2026-06-30 17:07:53 [INFO]: Database initialized successfully
+2026-06-30 17:09:14 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:09:14 [INFO]: API available at /api
+2026-06-30 17:09:14 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:09:14 [INFO]: Health check available at /health
+2026-06-30 17:09:15 [INFO]: MongoDB connected successfully
+2026-06-30 17:09:16 [INFO]: Default admin user created: adminparth@gmail.com
+2026-06-30 17:09:16 [INFO]: Database initialized successfully
+2026-06-30 17:09:56 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:09:56 [INFO]: API available at /api
+2026-06-30 17:09:56 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:09:56 [INFO]: Health check available at /health
+2026-06-30 17:09:56 [INFO]: MongoDB connected successfully
+2026-06-30 17:09:56 [INFO]: Database initialized successfully
+2026-06-30 17:10:22 [INFO]: MongoDB connected successfully
+2026-06-30 17:10:22 [INFO]: ::1 - - [30/Jun/2026:11:40:22 +0000] "POST /api/auth/login HTTP/1.1" 200 683 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:13 [INFO]: ::1 - - [30/Jun/2026:11:41:13 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:13 [INFO]: ::1 - - [30/Jun/2026:11:41:13 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:17 [INFO]: MongoDB connected successfully
+2026-06-30 17:11:17 [INFO]: ::1 - - [30/Jun/2026:11:41:17 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:20 [INFO]: ::1 - - [30/Jun/2026:11:41:20 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:20 [INFO]: ::1 - - [30/Jun/2026:11:41:20 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:22 [INFO]: MongoDB connected successfully
+2026-06-30 17:11:23 [INFO]: ::1 - - [30/Jun/2026:11:41:23 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:25 [INFO]: ::1 - - [30/Jun/2026:11:41:25 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:25 [INFO]: ::1 - - [30/Jun/2026:11:41:25 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:11:32 [INFO]: MongoDB connected successfully
+2026-06-30 17:11:32 [INFO]: ::1 - - [30/Jun/2026:11:41:32 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:12:22 [INFO]: ::1 - - [30/Jun/2026:11:42:22 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:12:22 [INFO]: ::1 - - [30/Jun/2026:11:42:22 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:12:23 [INFO]: MongoDB connected successfully
+2026-06-30 17:12:24 [INFO]: ::1 - - [30/Jun/2026:11:42:24 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:37 [INFO]: ::1 - - [30/Jun/2026:11:43:37 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:37 [INFO]: ::1 - - [30/Jun/2026:11:43:37 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:40 [INFO]: MongoDB connected successfully
+2026-06-30 17:13:40 [INFO]: ::1 - - [30/Jun/2026:11:43:40 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:55 [INFO]: ::1 - - [30/Jun/2026:11:43:55 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:55 [INFO]: ::1 - - [30/Jun/2026:11:43:55 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:13:57 [INFO]: MongoDB connected successfully
+2026-06-30 17:13:57 [INFO]: ::1 - - [30/Jun/2026:11:43:57 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:16:17 [INFO]: ::1 - - [30/Jun/2026:11:46:17 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:16:17 [INFO]: ::1 - - [30/Jun/2026:11:46:17 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:16:37 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:16:37 [INFO]: API available at /api
+2026-06-30 17:16:37 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:16:37 [INFO]: Health check available at /health
+2026-06-30 17:16:38 [INFO]: MongoDB connected successfully
+2026-06-30 17:16:38 [INFO]: Database initialized successfully
+2026-06-30 17:16:46 [INFO]: MongoDB connected successfully
+2026-06-30 17:16:46 [INFO]: ::1 - - [30/Jun/2026:11:46:46 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:19:39 [INFO]: ::1 - - [30/Jun/2026:11:49:39 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:19:39 [INFO]: ::1 - - [30/Jun/2026:11:49:39 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:19:40 [INFO]: MongoDB connected successfully
+2026-06-30 17:19:40 [INFO]: ::1 - - [30/Jun/2026:11:49:40 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:25:41 [INFO]: ::1 - - [30/Jun/2026:11:55:41 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:25:41 [INFO]: ::1 - - [30/Jun/2026:11:55:41 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:25:43 [INFO]: MongoDB connected successfully
+2026-06-30 17:25:43 [INFO]: ::1 - - [30/Jun/2026:11:55:43 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:25:59 [INFO]: ::1 - - [30/Jun/2026:11:55:59 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:25:59 [INFO]: ::1 - - [30/Jun/2026:11:55:59 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:26:00 [INFO]: MongoDB connected successfully
+2026-06-30 17:26:01 [INFO]: ::1 - - [30/Jun/2026:11:56:01 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:28:11 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:28:11 [INFO]: ::1 - - [30/Jun/2026:11:58:11 +0000] "POST /api/auth/logout HTTP/1.1" 401 96 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:28:11 [INFO]: ::1 - - [30/Jun/2026:11:58:11 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:28:14 [INFO]: MongoDB connected successfully
+2026-06-30 17:28:14 [INFO]: ::1 - - [30/Jun/2026:11:58:14 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:28:17 [INFO]: ::1 - - [30/Jun/2026:11:58:17 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:28:17 [INFO]: ::1 - - [30/Jun/2026:11:58:17 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:16 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:29:16 [INFO]: API available at /api
+2026-06-30 17:29:16 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:29:16 [INFO]: Health check available at /health
+2026-06-30 17:29:17 [INFO]: MongoDB connected successfully
+2026-06-30 17:29:17 [INFO]: Database initialized successfully
+2026-06-30 17:29:42 [INFO]: MongoDB connected successfully
+2026-06-30 17:29:42 [INFO]: ::1 - - [30/Jun/2026:11:59:42 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:44 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:44 [INFO]: ::1 - - [30/Jun/2026:11:59:44 +0000] "GET /api/auth/profile HTTP/1.1" 401 96 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:44 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:44 [INFO]: ::1 - - [30/Jun/2026:11:59:44 +0000] "GET /api/auth/profile HTTP/1.1" 401 96 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:44 [INFO]: ::1 - - [30/Jun/2026:11:59:44 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:44 [INFO]: ::1 - - [30/Jun/2026:11:59:44 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:48 [INFO]: MongoDB connected successfully
+2026-06-30 17:29:49 [INFO]: ::1 - - [30/Jun/2026:11:59:49 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:50 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:50 [INFO]: ::1 - - [30/Jun/2026:11:59:50 +0000] "GET /api/auth/profile HTTP/1.1" 401 96 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:50 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:50 [INFO]: ::1 - - [30/Jun/2026:11:59:50 +0000] "GET /api/auth/profile HTTP/1.1" 401 96 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:50 [INFO]: ::1 - - [30/Jun/2026:11:59:50 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:29:50 [INFO]: ::1 - - [30/Jun/2026:11:59:50 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:34:35 [INFO]: MongoDB connected successfully
+2026-06-30 17:34:36 [INFO]: ::1 - - [30/Jun/2026:12:04:36 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:34:38 [ERROR]: Auth middleware error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:19:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:47:12)
+2026-06-30 17:34:38 [INFO]: ::1 - - [30/Jun/2026:12:04:38 +0000] "GET /api/auth/profile HTTP/1.1" 401 104 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:34:38 [ERROR]: Auth middleware error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:19:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:47:12)
+2026-06-30 17:34:38 [INFO]: ::1 - - [30/Jun/2026:12:04:38 +0000] "GET /api/auth/profile HTTP/1.1" 401 104 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:34:38 [INFO]: ::1 - - [30/Jun/2026:12:04:38 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:34:38 [INFO]: ::1 - - [30/Jun/2026:12:04:38 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:35:18 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:35:18 [INFO]: API available at /api
+2026-06-30 17:35:18 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:35:18 [INFO]: Health check available at /health
+2026-06-30 17:35:19 [INFO]: MongoDB connected successfully
+2026-06-30 17:35:19 [INFO]: Database initialized successfully
+2026-06-30 17:35:37 [INFO]: MongoDB connected successfully
+2026-06-30 17:35:37 [INFO]: ::1 - - [30/Jun/2026:12:05:37 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:38:03 [INFO]: ::1 - - [30/Jun/2026:12:08:03 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:38:03 [INFO]: ::1 - - [30/Jun/2026:12:08:03 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:38:06 [INFO]: MongoDB connected successfully
+2026-06-30 17:38:07 [INFO]: ::1 - - [30/Jun/2026:12:08:07 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:26 [INFO]: ::1 - - [30/Jun/2026:12:12:26 +0000] "GET /api//api-docs HTTP/1.1" 404 113 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:26 [INFO]: ::1 - - [30/Jun/2026:12:12:26 +0000] "GET /favicon.ico HTTP/1.1" 404 111 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:32 [INFO]: ::1 - - [30/Jun/2026:12:12:32 +0000] "GET /api/api-docs HTTP/1.1" 404 112 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:43 [INFO]: ::1 - - [30/Jun/2026:12:12:43 +0000] "GET / HTTP/1.1" 404 100 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs HTTP/1.1" 301 158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/ HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:42:56 [INFO]: ::1 - - [30/Jun/2026:12:12:56 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 200 628 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:44:46 [INFO]: Server running in development mode on port 5000
+2026-06-30 17:44:46 [INFO]: API available at /api
+2026-06-30 17:44:46 [INFO]: API Documentation available at /api-docs
+2026-06-30 17:44:46 [INFO]: Health check available at /health
+2026-06-30 17:44:47 [INFO]: MongoDB connected successfully
+2026-06-30 17:44:47 [INFO]: Database initialized successfully
+2026-06-30 17:46:02 [INFO]: ::1 - - [30/Jun/2026:12:16:02 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:46:02 [INFO]: ::1 - - [30/Jun/2026:12:16:02 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:46:03 [INFO]: MongoDB connected successfully
+2026-06-30 17:46:04 [INFO]: ::1 - - [30/Jun/2026:12:16:04 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5175/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:52:57 [INFO]: MongoDB connected successfully
+2026-06-30 17:52:57 [INFO]: ::1 - - [30/Jun/2026:12:22:57 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:53:59 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [INFO]: ::1 - - [30/Jun/2026:12:23:59 +0000] "GET /api/products?page=1&pageSize=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:53:59 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [INFO]: ::1 - - [30/Jun/2026:12:23:59 +0000] "GET /api/products?page=1&pageSize=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:24 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:55:24 [INFO]: ::1 - - [30/Jun/2026:12:25:24 +0000] "POST /api/products HTTP/1.1" 401 96 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:24 [INFO]: ::1 - - [30/Jun/2026:12:25:24 +0000] "POST /api/auth/refresh HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:35 [INFO]: MongoDB connected successfully
+2026-06-30 17:55:36 [INFO]: ::1 - - [30/Jun/2026:12:25:36 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:39 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [INFO]: ::1 - - [30/Jun/2026:12:25:39 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:39 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [INFO]: ::1 - - [30/Jun/2026:12:25:39 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:42 [INFO]: ::1 - - [30/Jun/2026:12:25:42 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:42 [INFO]: ::1 - - [30/Jun/2026:12:25:42 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:44 [INFO]: MongoDB connected successfully
+2026-06-30 17:55:44 [INFO]: ::1 - - [30/Jun/2026:12:25:44 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:46 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [INFO]: ::1 - - [30/Jun/2026:12:25:46 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:55:46 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [INFO]: ::1 - - [30/Jun/2026:12:25:46 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:56:49 [INFO]: ::1 - - [30/Jun/2026:12:26:49 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:56:49 [INFO]: ::1 - - [30/Jun/2026:12:26:49 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:58:17 [INFO]: MongoDB connected successfully
+2026-06-30 17:58:18 [INFO]: ::1 - - [30/Jun/2026:12:28:18 +0000] "POST /api/auth/login HTTP/1.1" 200 726 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:58:20 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [INFO]: ::1 - - [30/Jun/2026:12:28:20 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 17:58:20 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [INFO]: ::1 - - [30/Jun/2026:12:28:20 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 18:00:31 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [INFO]: ::1 - - [30/Jun/2026:12:30:31 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 18:00:31 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [INFO]: ::1 - - [30/Jun/2026:12:30:31 +0000] "GET /api/products?page=1&limit=100 HTTP/1.1" 500 117 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 18:08:38 [INFO]: ::1 - - [30/Jun/2026:12:38:38 +0000] "GET /api/auth/profile HTTP/1.1" 404 116 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"

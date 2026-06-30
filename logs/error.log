@@ -382,3 +382,365 @@ TypeError: ApiResponse.error is not a function
     at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
     at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
     at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:57:08 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 16:58:57 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 16:58:57 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\errorHandler.js:5:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\ican\DevAssets\DevAssets-server-main\node_modules\morgan\index.js:170:5)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:328:13)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:286:9
+2026-06-30 17:06:55 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:55 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:57 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:06:57 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:07:43 [ERROR]: Login error: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:07:43 [ERROR]: Error occurred: Invalid credentials
+Error: Invalid credentials
+    at AuthService.login (D:\ican\DevAssets\DevAssets-server-main\src\services\auth.service.js:98:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async login (D:\ican\DevAssets\DevAssets-server-main\src\controllers\auth.controller.js:45:22)
+2026-06-30 17:28:11 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:44 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:44 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:50 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:29:50 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:34:38 [ERROR]: Auth middleware error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:19:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:47:12)
+2026-06-30 17:34:38 [ERROR]: Auth middleware error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:19:22)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:47:12)
+2026-06-30 17:53:59 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:53:59 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:24 [ERROR]: Auth middleware error: jwt malformed
+JsonWebTokenError: jwt malformed
+    at module.exports [as verify] (D:\ican\DevAssets\DevAssets-server-main\node_modules\jsonwebtoken\verify.js:70:17)
+    at authMiddleware (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\auth.js:17:25)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\index.js:175:3)
+2026-06-30 17:55:39 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:39 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:55:46 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 17:58:20 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: List products error: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2026-06-30 18:00:31 [ERROR]: Error occurred: getSupabaseAdmin is not a function
+TypeError: getSupabaseAdmin is not a function
+    at list (D:\ican\DevAssets\DevAssets-server-main\src\controllers\product.controller.js:613:24)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at validate (D:\ican\DevAssets\DevAssets-server-main\src\middlewares\validate.js:17:3)
+    at Layer.handle [as handle_request] (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\ican\DevAssets\DevAssets-server-main\node_modules\express\lib\router\route.js:149:13)
+    at middleware (D:\ican\DevAssets\DevAssets-server-main\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

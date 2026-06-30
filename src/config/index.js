@@ -5,7 +5,7 @@ module.exports = {
   port: parseInt(process.env.PORT) || 5000,
   env: process.env.NODE_ENV || 'development',
   api: {
-    prefix: process.env.API_PREFIX || '/api/v1'
+    prefix: process.env.API_PREFIX || '/api'
   },
   jwt: {
     secret: process.env.JWT_SECRET || 'codemarket-super-secret-jwt-key-2024',

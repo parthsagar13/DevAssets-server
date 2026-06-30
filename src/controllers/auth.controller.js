@@ -180,21 +180,7 @@ class AuthController {
       const userId = req.user.id;
       const updateData = req.body;
 
-      const { getSupabaseAdmin } = require('../config/database');
-      const supabase = getSupabaseAdmin();
-
-      const { data: user, error } = await supabase
-        .from('users')
-        .update({
-          ...updateData,
-          updated_at: new Date()
-        })
-        .eq('id', userId)
-        .select(`*, role:roles(id, name)`)
-        .single();
-
-      if (error) throw error;
-
+      const user = await authService.updateProfile(userId, updateData);
       ApiResponse.success(res, user, 'Profile updated successfully');
     } catch (error) {
       logger.error('Update profile error:', error);
@@ -207,30 +193,7 @@ class AuthController {
       const userId = req.user.id;
       const { storeName, storeDescription } = req.body;
 
-      const { getSupabaseAdmin } = require('../config/database');
-      const supabase = getSupabaseAdmin();
-
-      const sellerRole = await supabase
-        .from('roles')
-        .select('id')
-        .eq('name', 'seller')
-        .maybeSingle();
-
-      const { data: user, error } = await supabase
-        .from('users')
-        .update({
-          store_name: storeName,
-          store_description: storeDescription,
-          seller_status: 'pending',
-          role_id: sellerRole?.id,
-          updated_at: new Date()
-        })
-        .eq('id', userId)
-        .select(`*, role:roles(id, name)`)
-        .single();
-
-      if (error) throw error;
-
+      const user = await authService.applyForSeller(userId, storeName, storeDescription);
       ApiResponse.success(res, user, 'Seller application submitted successfully');
     } catch (error) {
       logger.error('Seller application error:', error);
