@@ -1,0 +1,434 @@
+2026-06-30 16:04:38 [INFO]: Supabase database connected successfully
+2026-06-30 16:04:38 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:04:38 [INFO]: API available at /api/v1
+2026-06-30 16:04:38 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:04:38 [INFO]: Health check available at /health
+2026-06-30 16:04:38 [INFO]: Database initialized successfully
+2026-06-30 16:04:39 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:04:39 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:34:39 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:04:42 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:04:42 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:34:42 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:04:52 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:04:52 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:34:52 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:05:02 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:05:02 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:35:02 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:05:12 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:05:12 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:35:12 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:05:22 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:05:22 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:35:22 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:06:42 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:06:42 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:36:42 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:06:50 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:06:50 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:36:50 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:06:59 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:06:59 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:36:59 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:07:09 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:07:09 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:37:09 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:07:18 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:07:18 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:37:18 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:07:29 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:07:29 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:37:29 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:07:40 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:07:40 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:37:40 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:07:50 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:07:50 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:37:50 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:08:01 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:08:01 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:38:01 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:08:12 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:08:12 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:38:12 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:08:22 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:08:22 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:38:22 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:08:32 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:08:32 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:38:32 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:11:25 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:11:25 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:41:25 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:13:16 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:13:16 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:43:16 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:13:26 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:13:26 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:43:26 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:13:36 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:13:36 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:43:36 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:13:47 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:13:47 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:43:47 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:13:57 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:13:57 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:43:57 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:14:07 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:14:07 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:44:07 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:14:17 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:14:17 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:44:17 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:15:13 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:15:13 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:45:13 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:15:21 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:15:21 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:45:21 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:15:29 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:15:29 [INFO]: 127.0.0.1 - - [30/Jun/2026:10:45:29 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:35:44 [INFO]: Supabase database connected successfully
+2026-06-30 16:35:44 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:35:44 [INFO]: API available at /api/v1
+2026-06-30 16:35:44 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:35:44 [INFO]: Health check available at /health
+2026-06-30 16:35:44 [INFO]: Database initialized successfully
+2026-06-30 16:35:44 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:35:44 [INFO]: 127.0.0.1 - - [30/Jun/2026:11:05:44 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:35:45 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:35:45 [INFO]: 127.0.0.1 - - [30/Jun/2026:11:05:45 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:35:53 [ERROR]: Error occurred: ApiResponse.error is not a function
+TypeError: ApiResponse.error is not a function
+    at notFoundHandler (file:///home/project/src/middlewares/errorHandler.js#cjs:5:22)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+    at router.process_params (file:///home/project/node_modules/express/lib/router/index.js#cjs:346:12)
+    at next (file:///home/project/node_modules/express/lib/router/index.js#cjs:280:10)
+    at logger (file:///home/project/node_modules/morgan/index.js#cjs:170:5)
+    at Layer.handle [as handle_request] (file:///home/project/node_modules/express/lib/router/layer.js#cjs:95:5)
+    at trim_prefix (file:///home/project/node_modules/express/lib/router/index.js#cjs:328:13)
+    at eval (file:///home/project/node_modules/express/lib/router/index.js#cjs:286:9)
+2026-06-30 16:35:53 [INFO]: 127.0.0.1 - - [30/Jun/2026:11:05:53 +0000] "GET / HTTP/1.1" 500 1255 "https://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+2026-06-30 16:47:33 [WARN]: Supabase credentials not provided - running in mock mode without database
+2026-06-30 16:47:33 [INFO]: Server running in development mode on port 5000
+2026-06-30 16:47:33 [INFO]: API available at /api/v1
+2026-06-30 16:47:33 [INFO]: API Documentation available at /api-docs
+2026-06-30 16:47:33 [INFO]: Health check available at /health
+2026-06-30 16:47:33 [INFO]: Database initialized successfully
